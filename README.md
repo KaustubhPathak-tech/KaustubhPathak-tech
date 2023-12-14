@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @KaustubhPathak-tech
-- 👀 I’m interested in ... development of softwares, websites and android apps.
-- 🌱 I’m currently learning ...C++ DSA and MERN stack
+- 👋 Hi, I’m Kaustubh
+- 👀 I’m interested in ... development of softwares, websites and AI & ML Models.
+- 🌱 I’m currently learning ... DSA and AI & ML.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... +91 8707887106  kaustubhpathak9@gmail.com
 
